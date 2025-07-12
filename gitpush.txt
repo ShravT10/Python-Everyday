@@ -1,0 +1,3 @@
+git add Day12-3.py
+git commit -m 'Check for Perfect Number'
+git push
